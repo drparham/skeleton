@@ -1,5 +1,5 @@
 {
-    "name": "league/:package_name",
+    "name": "pta/:package_name",
     "description": ":package_description",
     "keywords": [
         "league",
@@ -24,12 +24,12 @@
     },
     "autoload": {
         "psr-4": {
-            "League\\Skeleton\\": "src"
+            "Pta\\Skeleton\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "League\\Skeleton\\Test\\": "tests"
+            "Pta\\Skeleton\\Test\\": "tests"
         }
     },
     "scripts": {
