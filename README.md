@@ -1,13 +1,13 @@
-# :package_name
+# skeleton
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/pta/:package_name.svg?style=flat-square)](https://packagist.org/packages/pta/:package_name)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/pta/skeleton.svg?style=flat-square)](https://packagist.org/packages/pta/skeleton)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Build Status](https://img.shields.io/travis/pta/:package_name/master.svg?style=flat-square)](https://travis-ci.org/pta/:package_name)
-[![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/pta/:package_name.svg?style=flat-square)](https://scrutinizer-ci.com/g/pta/:package_name/code-structure)
-[![Quality Score](https://img.shields.io/scrutinizer/g/pta/:package_name.svg?style=flat-square)](https://scrutinizer-ci.com/g/pta/:package_name)
-[![Total Downloads](https://img.shields.io/packagist/dt/pta/:package_name.svg?style=flat-square)](https://packagist.org/packages/pta/:package_name)
+[![Build Status](https://img.shields.io/travis/pta/skeleton/master.svg?style=flat-square)](https://travis-ci.org/pta/skeleton)
+[![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/pta/skeleton.svg?style=flat-square)](https://scrutinizer-ci.com/g/pta/skeleton/code-structure)
+[![Quality Score](https://img.shields.io/scrutinizer/g/pta/skeleton.svg?style=flat-square)](https://scrutinizer-ci.com/g/pta/skeleton)
+[![Total Downloads](https://img.shields.io/packagist/dt/pta/skeleton.svg?style=flat-square)](https://packagist.org/packages/pta/skeleton)
 
-**Note:** Replace ```:author_name``` ```:author_username``` ```:author_website``` ```:author_email``` ```:package_name``` ```:package_description``` with their correct values in [README.md](README.md), [CHANGELOG.md](CHANGELOG.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE.md](LICENSE.md) and [composer.json](composer.json) files, then delete this line.
+**Note:** Replace ```:author_name``` ```:author_username``` ```:author_website``` ```:author_email``` ```skeleton``` ```:package_description``` with their correct values in [README.md](README.md), [CHANGELOG.md](CHANGELOG.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE.md](LICENSE.md) and [composer.json](composer.json) files, then delete this line.
 
 This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what
 PSRs you support to avoid any confusion with users and contributors.
@@ -17,7 +17,7 @@ PSRs you support to avoid any confusion with users and contributors.
 Via Composer
 
 ``` bash
-$ composer require league/:package_name
+$ composer require pta/skeleton
 ```
 
 ## Usage
