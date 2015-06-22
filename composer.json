@@ -2,8 +2,8 @@
     "name": "pta/skeleton",
     "description": "Description of Package",
     "keywords": [
-        "league",
-        ":package_name"
+        "pta",
+        "skeleton"
     ],
     "homepage": "https://github.com/drparham/skeleton",
     "license": "MIT",
